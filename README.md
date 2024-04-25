@@ -4,7 +4,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 ### Skills Learned
 -Data exfiltration methodologies
--WireShark display filter commands:
+<p>-WireShark display filter commands:</p>
 <p>--by IP Address (ip.addr == ...)</p>
 <p>--by source IP Address (ip.src == ...)</p>
 <p>--by destintation Address (ip.dst == ...)</p>
